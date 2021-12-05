@@ -29,34 +29,34 @@ function Footer() {
         <div className='footer-link-wrapper'>
           <div class='footer-link-items'>
             <h2>About Us</h2>
-            <Link to='/sign-up'>How it works</Link>
-            <Link to='/'>Testimonials</Link>
-            <Link to='/'>Careers</Link>
-            <Link to='/'>Investors</Link>
-            <Link to='/'>Terms of Service</Link>
+            <Link to='/services'>How it works</Link>
+            <Link to='/services'>Testimonials</Link>
+            <Link to='/services'>Careers</Link>
+            <Link to='/services'>Investors</Link>
+            <Link to='/services'>Terms of Service</Link>
           </div>
           <div class='footer-link-items'>
             <h2>Contact Us</h2>
-            <Link to='/'>Contact</Link>
-            <Link to='/'>Support</Link>
-            <Link to='/'>Destinations</Link>
-            <Link to='/'>Sponsorships</Link>
+            <Link to='/services'>Contact</Link>
+            <Link to='/services'>Support</Link>
+            <Link to='/services'>Destinations</Link>
+            <Link to='/services'>Sponsorships</Link>
           </div>
         </div>
         <div className='footer-link-wrapper'>
           <div class='footer-link-items'>
             <h2>Videos</h2>
-            <Link to='/'>Submit Video</Link>
-            <Link to='/'>Ambassadors</Link>
-            <Link to='/'>Agency</Link>
-            <Link to='/'>Influencer</Link>
+            <Link to='/services'>Submit Video</Link>
+            <Link to='/services'>Ambassadors</Link>
+            <Link to='/services'>Agency</Link>
+            <Link to='/services'>Influencer</Link>
           </div>
           <div class='footer-link-items'>
             <h2>Social Media</h2>
-            <Link to='/'>Instagram</Link>
-            <Link to='/'>Facebook</Link>
-            <Link to='/'>Youtube</Link>
-            <Link to='/'>Twitter</Link>
+            <Link to='/services'>Instagram</Link>
+            <Link to='/services'>Facebook</Link>
+            <Link to='/services'>Youtube</Link>
+            <Link to='/services'>Twitter</Link>
           </div>
         </div>
       </div>

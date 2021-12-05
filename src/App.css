@@ -14,14 +14,14 @@
 }
 
 .App-header {
-  background-color: #282c34;
+  color: rgb(209, 142, 218),rgb(172, 31, 190);
   min-height: 100vh;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
-  color: white;
+  color: rgb(209, 142, 218),rgb(172, 31, 190);
 }
 
 .App-link {
@@ -59,7 +59,7 @@
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
-  color: #fff;
+  color: rgb(209, 142, 218),rgb(172, 31, 190);
   font-size: 100px;
 }
 
@@ -68,7 +68,7 @@
   background-position: center;
   background-size: fill;
   background-repeat: no-repeat;
-  color: #fff;
+  color: rgb(209, 142, 218),rgb(172, 31, 190);
   font-size: 100px;
 }
 
@@ -77,6 +77,6 @@
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
-  color: #fff;
+  color: rgb(209, 142, 218),rgb(172, 31, 190);
   font-size: 100px;
 }
